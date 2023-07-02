@@ -15,11 +15,7 @@
 	<name>deliver</name>
 	<description>Sistemas de entregas</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
-
-	<dependencies>
+		<dependencies>
 
 
 		<dependency>
